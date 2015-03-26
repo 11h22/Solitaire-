@@ -1,4 +1,4 @@
-//Compile with this command:  g++-4.8 -std=c++0x -o Sol1.exe Sol1.cpp
+//Compile with this command:  g++-4.8 -std=c++0x -o Sol2.exe Sol2.cpp
 
 #include <stdio.h>
 #include <iostream>     // std::cout
